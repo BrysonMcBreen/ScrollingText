@@ -7,5 +7,5 @@ C++ Scrolling Text Console Output
 3. when you want to use it, do scroll([string]); The program will handle the rest :)
 
 ## Credits:
-Bryson McBreen - Scrolling Text Function
-Mark Wheeler - Showed me how to make the program wait a bit
+1. Bryson McBreen - Scrolling Text Function
+2. Mark Wheeler - Showed me how to make the program wait a bit
