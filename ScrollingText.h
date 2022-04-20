@@ -39,4 +39,17 @@ void scroll(string s) {
 	}
 }
 
+void varScroll(string s, int t) {
+	int length;
+	length = s.length();
+
+	vector<char> v(s.begin(), s.end());
+
+
+	for (int i = 0; i < length; i++) {
+		cout << v[i];
+		sleep(t);
+	}
+}
+
 // Created by Bryson McBreen, use it, modify it, IDC
